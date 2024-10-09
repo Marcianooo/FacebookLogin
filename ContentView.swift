@@ -70,7 +70,7 @@ struct ContentView: View {
                          /*@START_MENU_TOKEN@*//*@PLACEHOLDER=Action@*/ /*@END_MENU_TOKEN@*/
                      }.foregroundColor(.white).bold().padding(.top, 20)
                      
-                     Button("Forgot your password?") {
+                     Button("Forgot your password") {
                          /*@START_MENU_TOKEN@*//*@PLACEHOLDER=Action@*/ /*@END_MENU_TOKEN@*/
                      }.foregroundColor(Color("TextColor"))
                  }
